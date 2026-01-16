@@ -6,6 +6,7 @@
 
 *"AI doesn't replace, it empowers - Empowering SMEs with Technology"*
 
+[![Daily.Dev](https://img.shields.io/badge/dailydotdev-tszhim_tech-black?style=for-the-badge&logo=daily.dev)](https://app.daily.dev/tszhim_tech)
 [![Threads](https://img.shields.io/badge/Threads-@tszhim__tech-black?style=for-the-badge&logo=threads)](https://threads.net/@tszhim_tech)
 [![XiaoHongShu](https://img.shields.io/badge/XiaoHongShu-@tszhim__tech-red?style=for-the-badge&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/60e9c552000000000101ef5d)
 [![XiaoHongShu](https://img.shields.io/badge/X-@tszhim__tech-red?style=for-the-badge&logo=x)](https://x.com/tszhim_tech)
