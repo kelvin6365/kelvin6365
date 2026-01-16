@@ -89,9 +89,9 @@ Latest articles:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tszhim_tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvin6365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tszhim_tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin6365&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
@@ -154,7 +154,7 @@ Want to know how to:
 
 ### 💭 *"Empowering every entrepreneur with technology"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=tszhim_tech&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=kelvin6365&color=blueviolet&style=flat-square)
 
 **⭐ If my projects or content helped you, feel free to give a Star!**
 
