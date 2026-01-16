@@ -8,6 +8,7 @@
 
 [![Threads](https://img.shields.io/badge/Threads-@tszhim__tech-black?style=for-the-badge&logo=threads)](https://threads.net/@tszhim_tech)
 [![XiaoHongShu](https://img.shields.io/badge/XiaoHongShu-@tszhim__tech-red?style=for-the-badge&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/60e9c552000000000101ef5d)
+[![XiaoHongShu](https://img.shields.io/badge/X-@tszhim__tech-red?style=for-the-badge&logo=x)](https://x.com/tszhim_tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kelvin-kwong-358603183/)
 
 <a href="https://www.buymeacoffee.com/tszhim_tech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
