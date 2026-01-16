@@ -6,10 +6,10 @@
 
 *"AI doesn't replace, it empowers - Empowering SMEs with Technology"*
 
-[![Daily.Dev](https://img.shields.io/badge/dailydotdev-tszhim_tech-black?style=for-the-badge&logo=daily.dev)](https://app.daily.dev/tszhim_tech)
+[![Daily.dev](https://img.shields.io/badge/daily.dev-tszhim__tech-black?style=for-the-badge&logo=dailydotdev)](https://app.daily.dev/tszhim_tech)
 [![Threads](https://img.shields.io/badge/Threads-@tszhim__tech-black?style=for-the-badge&logo=threads)](https://threads.net/@tszhim_tech)
 [![XiaoHongShu](https://img.shields.io/badge/XiaoHongShu-@tszhim__tech-red?style=for-the-badge&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/60e9c552000000000101ef5d)
-[![XiaoHongShu](https://img.shields.io/badge/X-@tszhim__tech-red?style=for-the-badge&logo=x)](https://x.com/tszhim_tech)
+[![X](https://img.shields.io/badge/X-@tszhim__tech-black?style=for-the-badge&logo=x)](https://x.com/tszhim_tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kelvin-kwong-358603183/)
 
 <a href="https://www.buymeacoffee.com/tszhim_tech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -27,7 +27,7 @@ I believe technology should be an enabler, not a barrier 🔧
 
 ### 🎯 Mission
 
-- 📚 **Share Practical Knowledge** - Tech trends, AI applications, and automation solutions on Threads and XiaoHongShu
+- 📚 **Share Practical Knowledge** - Tech trends, AI applications, and automation solutions across Threads, XiaoHongShu, X, and Daily.dev
 - 🛠️ **Build Useful Tools** - Creating open-source MCP Servers and automation tools
 - 🤝 **Help SMEs** - Providing tech consulting to make AI and automation actually work
 - 🌱 **Lower Technical Barriers** - Helping non-technical entrepreneurs leverage technology
@@ -44,11 +44,17 @@ I believe technology should be an enabler, not a barrier 🔧
 
 ### ✍️ Content Creation
 
-I share on **Threads** and **XiaoHongShu**:
+I share across multiple platforms:
 - 🧠 Real-world AI application cases
 - 🔄 MCP Protocol and future trends
 - ⚡ Business automation solutions
 - 💼 Tech selection advice for SMEs
+- 🛠️ Development tips and best practices
+
+**Platforms:**
+- **Threads & X** - Quick insights and tech discussions
+- **XiaoHongShu** - In-depth tutorials (Chinese audience)
+- **Daily.dev** - Developer-focused content and articles
 
 Latest articles:
 - "The Revolutionary Impact of MCP (Model Context Protocol)"
@@ -79,6 +85,18 @@ Latest articles:
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tszhim_tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tszhim_tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
 ## 🎓 What I'm Learning
 
 - 🤖 Advanced MCP (Model Context Protocol) implementations
@@ -99,7 +117,9 @@ I'd love to discuss:
 ### 📫 Find Me On
 
 - 💬 **Threads**: [@tszhim_tech](https://threads.net/@tszhim_tech) - Daily tech insights and thoughts
-- 📱 **XiaoHongShu**: [@tszhim_tech](https://www.xiaohongshu.com/user/profile/60e9c552000000000101ef5d) - In-depth tutorials and case studies
+- 🐦 **X (Twitter)**: [@tszhim_tech](https://x.com/tszhim_tech) - Quick tips and tech discussions
+- 📱 **XiaoHongShu**: [@tszhim_tech](https://www.xiaohongshu.com/user/profile/60e9c552000000000101ef5d) - In-depth tutorials and case studies (Chinese)
+- 📰 **Daily.dev**: [@tszhim_tech](https://app.daily.dev/tszhim_tech) - Developer articles and insights
 - 💼 **LinkedIn**: [Kelvin Kwong](https://www.linkedin.com/in/kelvin-kwong-358603183/) - Professional networking
 
 ### ☕ Support My Work
@@ -134,7 +154,7 @@ Want to know how to:
 
 ### 💭 *"Empowering every entrepreneur with technology"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=kelvin6365&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=tszhim_tech&color=blueviolet&style=flat-square)
 
 **⭐ If my projects or content helped you, feel free to give a Star!**
 
