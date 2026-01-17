@@ -85,18 +85,6 @@ Latest articles:
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvin6365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin6365&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 ## 🎓 What I'm Learning
 
 - 🤖 Advanced MCP (Model Context Protocol) implementations
